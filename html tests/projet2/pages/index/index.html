@@ -1,0 +1,65 @@
+<!-- to the editor, l'archive fonctionne a peine, j'ai un projet d'ajouter un fichier de logs avec un js dans un txt en local -->
+<!DOCTYPE html>
+<html lang='fr'>
+<head>
+    <meta charset="utf-8">
+    <title>Roblox Fanclub</title>
+    <link rel="stylesheet" href="../../style.css" type="text/css">
+</head>
+
+<body>
+
+    <nav class="navbar">
+    <ul>
+        <li><a href="../armory/armory.html">ALLEZ A L'ARMORY</a></li>
+        <li><a href="../banlands/banlands.html">ALLEZ AUX BANLANDS</a></li>
+        <li><a href="../cinema/cinema.html">ALLEZ AU CINEMA</a></li>
+        <li><a href="../hall of fame/hall-of-fame.html">ALLEZ AU HALL OF FAME</a></li>
+        <li><a href="../qg/qg.html">ALLEZ AU QG</a></li>
+
+    </ul>
+    </nav>
+    
+    
+    <h1>ROBLOX FANCLUB</h1>
+    <h3>Bienvenue à notre page sur le vieux roblox, le nouveau est nul, lisez bien ce que <strong>Victor Somnard</strong> m'a donné comme texte parce que moi j'y connais <strong>rien</strong>.</h3>
+
+
+    <div class="image-wrapper">
+        <img src="../../images/home/Noob.jpg" alt="placeholder 1" class="poster3">
+        <img src="../../images/hall-of-fame/guest/roblox.png" alt="placeholder 2" class="poster3">
+    </div>
+
+    <div class="audio-player">
+        <button id="playPause">▶</button>
+        <p id="currentTime">0:00</p> / <p id="totalTime">0:00</p>
+        <input type="range" id="progressBar" value="0" step="0.000001">
+
+        <audio id="audioElement">
+            <source src="../../oof-ost.mp3" type="audio/mpeg">
+        </audio>
+    </div>    
+    <br><br><br><br><br>
+
+    <h1>VOUS VOULEZ NOUS CONTACTER? ENVOYEZ NOUS UN MAIL</h1>
+    
+    <form action="save-to-file.php" method="post" class="form">
+        <label for="name">Nom :</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">E-mail :</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="message">Message :</label>
+        <textarea id="message" name="message" rows="4"></textarea>
+
+        <br><br>
+        <button type="submit">Envoyer</button>
+    </form>
+
+</body>
+
+<footer> 
+    <script src="script-index.js"></script>
+</footer>
+</html>
