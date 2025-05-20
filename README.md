@@ -1,5 +1,5 @@
-# Nom du Projet
-Roblox Legends Archive - Un projet documentant les mythes et légendes de l'ancien Roblox.
+# Roblox Legends Archive
+Un projet documentant les mythes et légendes de l'ancien Roblox.
 
 ## Installation
 Instructions pour installer et configurer le projet :
