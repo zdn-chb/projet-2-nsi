@@ -1,3 +1,5 @@
+//script qui se répète pour chaque item de la liste
+
 function coils() {
     const image = document.getElementById('img1');
     image.src = '../../images/armory/Coils.jpg';

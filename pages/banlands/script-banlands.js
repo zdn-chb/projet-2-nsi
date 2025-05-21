@@ -1,3 +1,5 @@
+// fontion répétée pour chaque item a utiliser
+
 function banlands() {
     const image = document.getElementById('img1');
     image.src = '../../images/banlands/banland.jpg';

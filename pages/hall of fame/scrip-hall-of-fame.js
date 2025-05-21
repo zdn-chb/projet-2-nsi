@@ -1,4 +1,5 @@
-// Fonction pour changer l'image et le texte
+// Fonction pour changer l'image et le texte répétée pour chaque personnage
+
 function dued() {
     const image = document.getElementById('img1');
     image.src = '../../images/hall-of-fame/dued/Dued1.png';
