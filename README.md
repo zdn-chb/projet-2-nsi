@@ -41,4 +41,4 @@ LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IM
 Pour toute question ou demande d’assistance, contactez zaidanchehab@gmail.com, ou victor.somnard@icloud.com
 
 ## nb
-bonne chance pour lire le js, meme moi je le comprends pas lol
+bonne chance pour lire le js =)
