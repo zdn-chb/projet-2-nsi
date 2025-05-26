@@ -9,7 +9,8 @@ body {
     background-color: black; /* Fond sombre */
     padding: 25px; /* Évite que le contenu colle aux bords */
     font-size: 18px; /* Taille du texte lisible */
-    margin: 0; /* Supprime les marges par défaut */
+    display: flex;
+    margin: center; /* Supprime les marges par défaut */
     color: white; /* Texte en blanc pour le contraste */
     font-family: 'Comic Sans MS', sans-serif; /* Style rétro */
 }
