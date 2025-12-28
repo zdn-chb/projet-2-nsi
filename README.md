@@ -10,7 +10,6 @@ Instructions pour installer et configurer le projet :
 Les utilisateurs peuvent :
 - Explorer les histoires sur les figures légendaires de Roblox.
 - Lire leurs récits et théories.
-- Participer aux discussions sur les hackers et mythes célèbres.
 
 ## Fonctionnalités
 - Base de données interactive des légendes de Roblox.
